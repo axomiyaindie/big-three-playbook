@@ -1,0 +1,8 @@
+﻿# The AI Landscape (Companies)
+
+Major AI organizations and their competing approaches.
+
+- [OpenAI](openai.md)
+- [Anthropic](anthropic.md)
+- [DeepSeek](deepseek.md)
+- [xAI](xai.md)
